@@ -14,7 +14,7 @@
 
 Чтобы запустить скрипт надо установить зависимости , вот так:
 ```sh
-$ pip install -r requirements.txt --no-index --find-links file:///tmp/packages
+$ pip3 install  vk-api
 ```
 а потом уже ввести команду:
 ```sh
